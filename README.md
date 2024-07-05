@@ -89,11 +89,11 @@ Our fellows conduct research on a wide range of topics, including urban planning
 
 Access the research slides of our fellows:
 
-- [Yongze Song: New geospatial methods for the second-dimension spatial association](http://example.com/slides1)
-- [Qionghuan Liu: Wetland changes in four bay areas around the world](http://example.com/slides2)
-- [Gladys Elizabeth Kenyon: Using high-resolution aerial imagery in the MOSAIKS framework (A Generalizable and Accessible Approach to Machine Learning)](http://example.com/slides3)
-- [Zhen Wu: Forest change and its carbon sink potential]()
-- [Nan Jia: Unbalanced Burden is Escalating: Urban Inequality Landscape under Sudden Shocks]()
+- [Yongze Song: New geospatial methods for the second-dimension spatial association](https://github.com/yongzesong/sdl-program/blob/main/SDL%20Fellow%20Research%20Plan/fellow%20yongze%20song.pptx)
+- [Qionghuan Liu: Wetland changes in four bay areas around the world](https://github.com/yongzesong/sdl-program/blob/main/SDL%20Fellow%20Research%20Plan/fellow%20qionghuan%20liu.pptx)
+- [Gladys Elizabeth Kenyon: Using high-resolution aerial imagery in the MOSAIKS framework (A Generalizable and Accessible Approach to Machine Learning)](https://github.com/yongzesong/sdl-program/blob/main/SDL%20Fellow%20Research%20Plan/fellow%20Gladys%20Kenyon.pptx)
+- [Zhen Wu: Forest change and its carbon sink potential](https://github.com/yongzesong/sdl-program/blob/main/SDL%20Fellow%20Research%20Plan/fellow%20zhen%20wu.pptx)
+- [Nan Jia: Unbalanced Burden is Escalating: Urban Inequality Landscape under Sudden Shocks](https://github.com/yongzesong/sdl-program/blob/main/SDL%20Fellow%20Research%20Plan/fellow%20nan%20jia.pptx)
 
 
 ### Fellows' Labs
