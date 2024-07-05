@@ -122,7 +122,11 @@ The SDL Interest Groups are specialized teams focused on specific research theme
 - Co-chairs: Shouzhifan Zhu, Prisha Malik
 - Advisor: Gladys Elizabeth Kenyon
 
+## Useful Links and Materials
 
+- [Template for case study development](https://docs.google.com/presentation/d/1PbWT4NGWG-gKHAPVJOemfxxd6JmEJy8H/edit?usp=drive_web&ouid=115874162170317228708&rtpof=true)
+- [Interns' Feedback form](https://yongzesong.com/sdl-program-intern-feedback/)
+  
 
 ## Getting Involved
 
